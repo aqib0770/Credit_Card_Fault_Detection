@@ -19,6 +19,6 @@ To run the project, follow these steps:
 3. Run the Flask application.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/aqib0770/Credit_Card_Fault_Detection.git
 pip install -r requirements.txt
 python app.py
